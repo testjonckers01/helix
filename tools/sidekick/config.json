@@ -1,16 +1,10 @@
 {
   "plugins": [
     {
-      "id": "publish",
-      "confirm": true
-    }
-  ]
-
-  "plugins": [
-    {
       "id": "foo",
-      "title": "Foo",
+      "title": "Generate with AI",
       "url": "/tools/sidekick/foo.html"
     }
   ]
 }
+
